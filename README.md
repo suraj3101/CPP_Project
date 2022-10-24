@@ -1,2 +1,2 @@
 # Project
-This is all about the Project section.
+This is all about the CPP Project section.
